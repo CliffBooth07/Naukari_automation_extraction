@@ -60,9 +60,9 @@ def get_result_andstore(skills,noofexp,location,filter,wait):
         return Array.from(document.querySelectorAll('.srp-jobtuple-wrapper'))
             .map(card => ({
                 name: card.querySelector('h2 a')?.innerText.trim() || '',
-                price: card.querySelector('.row2 span a')?.innerText.trim() || ''
+                company: card.querySelector('.row2 span a')?.innerText.trim() || ''
             }))
-            .filter(item => item.name || item.price);
+            .filter(item => item.name || item.company);
     """)
     results = [
         {
