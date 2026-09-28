@@ -4,159 +4,159 @@
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "QA Automation Engineer/SDET",
-        "price": "EY"
+        "company": "Leading Client",
+        "name": "Software Development Testing Engineer ( SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET",
-        "price": "Blackbuck"
+        "company": "Leading Client",
+        "name": "Software Development Testing Engineer ( SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET ( Immediate joiners preferred)",
-        "price": "Healthedge"
+        "company": "EY",
+        "name": "QA Automation Engineer/SDET"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "QA | Test Automation Engineer | SDET",
-        "price": "AllDomainSoft.com Pvt. Ltd."
+        "company": "Valsoft Corp",
+        "name": "Software Development Engineer in Test (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "Sdet Engineer",
-        "price": "ZapCom"
+        "company": "AllDomainSoft.com Pvt. Ltd.",
+        "name": "QA | Test Automation Engineer | SDET"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "Software Development Engineer in Test (SDET)",
-        "price": "Medpace Clinical Research India"
+        "company": "Leading Client",
+        "name": "Software Development Testing Engineer (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "Automation Test Engineer (Java SDET)",
-        "price": "Tata Consultancy Services"
+        "company": "ON Semiconductor",
+        "name": "Software Development Engineer in Test (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET Engineer",
-        "price": "Artizent Infosystems"
+        "company": "Medpace Clinical Research India",
+        "name": "Software Development Engineer in Test (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "Software Development Engineer in Test (SDET)",
-        "price": "Sharda Tech"
+        "company": "Leading Client",
+        "name": "Software Development Testing Engineer (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "Software Development Engineer in Test (SDET)",
-        "price": "Sharda Tech"
+        "company": "Leading Client",
+        "name": "Software Development Testing Engineer (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "Sr SDET Engineer",
-        "price": "Apple"
+        "company": "Tech Mahindra",
+        "name": "Sdet Automation Test Engineer"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "Senior Sdet Engineer",
-        "price": "Alegeus Technologies"
+        "company": "Centific",
+        "name": "Sdet Engineer"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET",
-        "price": "Testing Mavens Software"
+        "company": "Tata Consultancy Services",
+        "name": "Automation Test Engineer (Java SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET ( Mobile Automation)",
-        "price": "Moolya Testing"
+        "company": "Artizent Infosystems",
+        "name": "SDET Engineer"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET QA Automation",
-        "price": "Sdet Tech"
+        "company": "Sharda Tech",
+        "name": "Software Development Engineer in Test (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET - Senior Engineer",
-        "price": "Iris Software"
+        "company": "Sharda Tech",
+        "name": "Software Development Engineer in Test (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET - Java/Python, Playwright, Microservices & CI/CD",
-        "price": "Synechron"
+        "company": "Apple",
+        "name": "Sr SDET Engineer"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "SDET Automation Test Engineer",
-        "price": "Bulwark Software Research"
+        "company": "Iris Software",
+        "name": "SDET - Senior Engineer"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "QA-SDET",
-        "price": "Naukri Assist"
+        "company": "Damco Solutions",
+        "name": "Software Development Engineer in Test (SDET)"
     },
     {
         "skill": "SDET",
         "experience": "5",
         "location": "Los Angeles",
         "filter": "Hybrid",
-        "name": "C# SDET",
-        "price": "Naukri Assist"
+        "company": "Bulwark Software Research",
+        "name": "SDET Automation Test Engineer"
     }
 ]
